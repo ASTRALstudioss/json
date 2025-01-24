@@ -1,11 +1,11 @@
 [
     {
-        "name": "Game 1",
+        "name": "test",
         "location": "/path/to/game1",
         "image": "static/images/game1.png"
     },
     {
-        "name": "Game 2",
+        "name": "test",
         "location": "/path/to/game2",
         "image": "static/images/game2.png"
     }
